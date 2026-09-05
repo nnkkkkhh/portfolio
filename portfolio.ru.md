@@ -5,7 +5,7 @@
 Каталог моих проектов по данным. Каждый проект — отдельный репозиторий
 с подробным README: задача, данные, методы, результат.
 
-**Контакты:** [nikitaharkov06@gmail.com](mailto:nikitaharkov06@gmail.com) · [Telegram](https://t.me/USERNAME)
+**Контакты:** [nikitakharkvv@gmail.com](mailto:nikitakharkvv@gmail.com) · [Telegram](https://t.me/USERNAME)
 
 ## 📚 Содержание
 - [Дата-инжиниринг](#дата-инжиниринг)

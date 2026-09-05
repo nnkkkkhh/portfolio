@@ -5,7 +5,7 @@
 A catalogue of my data projects. Each project lives in its own repository
 with a detailed README: the problem, the data, the methods, the result.
 
-**Contact:** [nikitaharkov06@gmail.com](mailto:nikitaharkov06@gmail.com) · [Telegram](https://t.me/USERNAME)
+**Contact:** [nikitakharkvv@gmail.com](mailto:nikitakharkvv@gmail.com) · [Telegram](https://t.me/USERNAME)
 
 ## 📚 Table of Contents
 - [Data Engineering](#data-engineering)
