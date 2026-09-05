@@ -1,4 +1,4 @@
-[← Обо мне](https://github.com/nnkkkkhh)
+[← Обо мне](https://github.com/nnkkkkhh) · [English](README.md) · **Русский**
 
 # Портфолио
 
